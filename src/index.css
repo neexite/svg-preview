@@ -1,0 +1,19 @@
+.icon {
+  width: 120px;
+  height: 160px;
+  float: left;
+  margin: 20px;
+  border: 1px solid gray;
+}
+.icon .icon-name {
+  height: 80px;
+  display: block;
+  text-align: center;
+}
+
+.icon svg {
+  width: 80px;
+  height: 80px;
+  margin: 0 20px 0 20px;
+  background: #f8f8f8;
+}
